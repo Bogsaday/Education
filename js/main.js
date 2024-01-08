@@ -17,6 +17,7 @@ $(document).ready(function () {
     if ($(window).scrollTop() > 30) {
       $("header").addClass("header-active");
     } else {
+      $("header").removeClass("header-active");
     }
   });
 });
