@@ -94,7 +94,7 @@ header .fa-bars {
 
 header .fa-times {
   transform: rotate(180deg);
-  color: var(--pink);
+  color: var(--green);
 }
 
 /* media queries */
